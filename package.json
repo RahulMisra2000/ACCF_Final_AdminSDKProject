@@ -1,0 +1,24 @@
+{
+  "name": "ACCF_Final_AdminSDKProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "adminsdkrun": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulMisra2000/ACCF_Final_AdminSDKProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulMisra2000/ACCF_Final_AdminSDKProject/issues"
+  },
+  "homepage": "https://github.com/RahulMisra2000/ACCF_Final_AdminSDKProject#readme",
+  "dependencies": {
+    "firebase-admin": "^9.5.0"
+  }
+}
